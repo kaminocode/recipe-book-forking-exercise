@@ -8,8 +8,10 @@
 - peas
 - mushrooms
 - onions
+- tomato sauce
+- extra virgin olive oil
 
 
 ## Instructions
 
-TODO: these are missing
+Trow everything in the pan and hope
