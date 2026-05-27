@@ -8,6 +8,7 @@
 - peas
 - mushrooms
 - onions
+- salt (to taste)
 
 
 ## Instructions
